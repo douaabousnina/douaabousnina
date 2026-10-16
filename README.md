@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Douaa
 
-**Cloud & AI Software Engineer in the making** | ICT engineering student @ INSAT, Tunis
+**Cloud & DevOps AI Software Engineer in the making** | ICT engineering student @ INSAT, Tunis
 
-I build Python systems that put AI to work reliably: **RAG pipelines, LLM agents and cloud-native services**, shipped with Docker, Terraform and CI/CD.
+I build Python systems that put AI to work reliably: **RAG & Data pipelines, LLM agents and cloud-native services**, shipped with Docker, Terraform and CI/CD.
 
 ## 🔭 What I'm up to
 
-- 🧠 **R&D AI & HPC Engineer** (part-time): building a hybrid AI/deterministic recommender for InfiniBand network topologies
-- ☁️ Previously built a **multi-cloud RAG platform** on Azure and AWS (Terraform, Cosmos DB vector search, Azure OpenAI)
 - 🎓 Final-year engineering student, looking for a **6-month end-of-studies internship in early 2027**
 - 🗣️ Arabic (native) · French (C1) · English (C1)
 
